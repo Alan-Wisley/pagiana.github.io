@@ -1,0 +1,148 @@
+.inicio{
+	background-color: red;
+    right: 200px;
+    top: 70px;
+    position: absolute;
+    width: 625px;
+    height: 484px;
+    left: 26px;
+}
+
+#inicio2{
+	background-color: red;
+    right: 200px;
+    top: 70px;
+    position: absolute;
+    width: 625px;
+    height: 484px;
+    left: 713px;
+}
+
+#img{
+	position: absolute;
+    width: 200px;
+    left: 26px;
+    top: 23px;
+}
+
+#img2{
+	position: absolute;
+    width: 109px;
+    left: 13px;
+    top: 423px;
+}
+
+#img3{
+	position: absolute;
+    width: 100px;
+    top: 423px;
+    left: 125px;
+}
+
+#el{
+	position: absolute;
+    left: 266px;
+    top: 449px;
+    width: 170px;
+    height: 34px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#em{
+	position: absolute;
+    top: 449px;
+    left: 428px;
+}
+
+
+
+h1{
+	position: absolute;
+    top: 362px;
+    left: 22px;
+}
+
+h2{
+	position: absolute;
+    width: 366px;
+    left: 260px;
+    top: 145px;
+    font-size: 20px;
+}
+
+#desc{
+	position: absolute;
+    top: 225px;
+    width: 366px;
+    left: 260px;
+    font-size: 20px;
+
+}
+
+#bio{
+	position: absolute;
+    left: 354px;
+    top: 90px;
+}
+
+#ha{
+	top: 19px;
+    left: 205px;
+    position: absolute;
+}
+
+#line{
+	background-color: white;
+	position: absolute;
+    width: 306px;
+    height: 308px;
+    top: 120px;
+    left: 35px;
+}
+
+#no{
+	position: relative;
+	top: 75px;
+    left: 120px;
+    width: 130px;
+}
+
+#progress-bar{
+	width: 65%;
+    height: 15px;
+}
+
+#v2{
+	position: absolute;
+    top: 0px;
+    left: 267px;
+}
+
+#ja{
+	position: absolute;
+    top: 100px;
+}
+
+#ja2{
+	position: absolute;
+    top: 146px;
+}
+
+#v3{
+	position: absolute;
+    top: 3px;
+    left: 267px;
+}
+
+#line2{
+	background-color: white;
+    position: absolute;
+    width: 306px;
+    height: 308px;
+    top: 120px;
+    left: 35px;
+}
